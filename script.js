@@ -7,3 +7,4 @@ div.style.color = "blue";
 div.style.margin = "20px";
 div.style.padding = "10px";
 div.style.fontSize = "18px";
+div.style.fontWeight = "bold";
